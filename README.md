@@ -18,10 +18,7 @@ I wanted hands-on experience creating a mechanical keyboard from the scratch whi
 <img width="1507" height="505" alt="image" src="https://github.com/user-attachments/assets/8bc26a81-b135-4ec0-a37d-b79335412985" />
 
 
-| Component               | Quantity  | Unit Price | Total Price   | Link
-|--------------------------|----------|----------------------------|-----------------------------|
-| PCB                      | 1        |   22.90$   | 33.56$        | In readme
-| Raspberry Pi Pico        | 1        |   8.35$    | 8.35$         | https://amzn.in/d/0gpsemU3
-| Gateron Yellow Switches  | 1        |   44.56$   | 44.56$        | https://amzn.in/d/0biiiPj3
-| 1N4148 Diode             | 1        |   2.74$    | 3.63$         | https://amzn.in/d/0dybXXSo  
-                                      | TOTAL      | 90.25$        |
+<img width="1039" height="245" alt="image" src="https://github.com/user-attachments/assets/bf18f30e-5a52-4b96-a8a4-6edf9fc6dae2" />
+
+( CHECK THE BOM.CSV FOR LINKS )
+
