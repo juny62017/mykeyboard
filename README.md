@@ -14,3 +14,5 @@ I wanted hands-on experience creating a mechanical keyboard from the scratch whi
 <img width="1211" height="520" alt="image" src="https://github.com/user-attachments/assets/c4ff4f75-bf04-4b99-b7c1-54f0bf7ef18e" />
 <img width="1214" height="686" alt="image" src="https://github.com/user-attachments/assets/9117c4f9-b274-4ed4-932c-d51673fc8d9c" />
 <img width="1492" height="770" alt="image" src="https://github.com/user-attachments/assets/35a79d46-d5ca-4931-94e8-328d1c581aea" />
+
+<img width="1507" height="505" alt="image" src="https://github.com/user-attachments/assets/8bc26a81-b135-4ec0-a37d-b79335412985" />
