@@ -24,6 +24,6 @@ keyboard.keymap = [
     [KC.LSHIFT, KC.NO, KC.Z, KC.X, KC.C, KC.V, KC.B, KC.N, KC.M, KC.COMMA, KC.DOT, KC.SLASH, KC.RSHIFT, KC.UP, KC.PGDOWN],
     [KC.LCTRL, KC.LGUI, KC.LALT, KC.NO, KC.NO, KC.NO, KC.SPACE, KC.NO, KC.NO, KC.RALT, KC.RGUI, KC.NO, KC.LEFT, KC.DOWN, KC.RIGHT],
     ]
-# Start kmk!
+
 if __name__ == '__main__':
     keyboard.go()
