@@ -18,7 +18,7 @@ I wanted hands-on experience creating a mechanical keyboard from the scratch whi
 <img width="1507" height="505" alt="image" src="https://github.com/user-attachments/assets/8bc26a81-b135-4ec0-a37d-b79335412985" />
 
 
-<img width="1429" height="276" alt="image" src="https://github.com/user-attachments/assets/fdd11b6c-c9b2-49a1-97a0-2bdf9cc5a2b5" />
+<img width="1401" height="279" alt="image" src="https://github.com/user-attachments/assets/588fb7a0-3762-42b0-b475-d877aa7e38c5" />
 
 
 ( CHECK THE BOM.CSV FOR LINKS )
