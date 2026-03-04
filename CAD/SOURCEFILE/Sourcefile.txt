@@ -1,0 +1,8 @@
+## CAD Files
+
+STEP files are available in the CAD folder.
+
+FreeCAD source file (.FCStd):
+https://drive.google.com/file/d/11GrOLehdQnIqnjYHdTiwoMdfr6e26Ge0/view?usp=sharing
+
+( the file is above 25mb)
