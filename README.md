@@ -23,3 +23,16 @@ I wanted hands-on experience creating a mechanical keyboard from the scratch whi
 
 ( CHECK THE BOM.CSV FOR LINKS )
 
+
+## 🧾 Bill of Materials (BOM)
+
+| Component               | Quantity | Unit Price ($) | Total Price ($) | Link |
+|-------------------------|----------|---------------|-----------------|------|
+| PCB                     | 1        | 22.90         | 33.56           | In README |
+| Raspberry Pi Pico       | 1        | 8.35          | 8.35            | https://amzn.in/d/0gpsemU3 |
+| Gateron Yellow Switches | 8        | 17.40         | 18.40           | https://www.thecosmicbyte.com/product/gateron-mechanical-switches-compatible |
+| 1N4148 Diode            | 1        | 2.74          | 3.63            | https://amzn.in/d/0dybXXSo |
+| Keycaps                 | 1        | 16.00         | 16.00           | https://amzn.in/d/0cGbMR1a |
+| Stabilizers             | 1        | 14.10         | 15.00           | https://neomacro.in/products/tx-stabilizers-rev-3?variant=47932019114262 |
+
+**Total Cost: $94.50**
