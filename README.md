@@ -24,7 +24,7 @@ I wanted hands-on experience creating a mechanical keyboard from the scratch whi
 ( CHECK THE BOM.CSV FOR LINKS )
 
 
-## 🧾 Bill of Materials (BOM)
+##  Bill of Materials (BOM)
 
 | Component               | Quantity | Unit Price ($) | Total Price ($) | Link |
 |-------------------------|----------|---------------|-----------------|------|
