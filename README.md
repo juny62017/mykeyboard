@@ -26,6 +26,15 @@ I wanted hands-on experience creating a mechanical keyboard from the scratch whi
 
 <img width="1401" height="279" alt="image" src="https://github.com/user-attachments/assets/588fb7a0-3762-42b0-b475-d877aa7e38c5" />
 
+## CAD Files
+
+STEP files are available in the CAD folder.
+
+FreeCAD source file (.FCStd):
+https://drive.google.com/file/d/11GrOLehdQnIqnjYHdTiwoMdfr6e26Ge0/view?usp=sharing
+
+( the file is above 25mb)
+
 
 ( CHECK THE BOM.CSV FOR LINKS )
 
